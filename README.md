@@ -33,7 +33,7 @@ https://cat-catch.94cat.com/
 ## 应用商店安装
 
 通过安装地址的链接到官方扩展商店即可安装。
-
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/gh-pages/categories/kids.m3u
 ## 源码安装
 
 1. Git Clone 代码。
